@@ -89,3 +89,5 @@ ENV/
 .ropeproject
 .tmp/*
 !.tmp/.hidden
+# ignore vim files
+*.vim
